@@ -1,0 +1,9 @@
+h1, h2, h3 {
+  text-align: center;
+  width: 80%;
+  margin: 20px auto;
+}
+
+h2 {
+  color: blue;
+}
